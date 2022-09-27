@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FilChl
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Node.js
+- 👋 Hi, I’m Filip
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently working as Cloud Administrator
 - 📫 How to reach me filipchlanta@gmail.com
 
 
