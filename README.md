@@ -1,2 +1,1 @@
-I do devops and cloud. 
-
+I dont do shit
